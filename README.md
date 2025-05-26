@@ -1,1 +1,1 @@
- License-Plate-Recognition-system
+Automated License-Plate-Recognition-System
